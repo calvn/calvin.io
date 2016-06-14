@@ -1,0 +1,22 @@
+baseurl = "http://calvin.io"
+languageCode = "en-us"
+title = "Calvin Leung Huang"
+theme = "hugo-cactus-theme"
+canonifyurls = true
+
+[params]
+  name = "Calvin Leung Huang"
+  description = ""
+  bio = "Software Engineer - Cimpress - Boston"
+  enableRSS = false
+
+  title404 = "Uh Oh!"
+  subtitle404 = "I couldn't find what you're looking for."
+
+  iconFont = "mono-social"
+  socialIconStyle = "circle"
+
+[social]
+  twitter  = "https://www.twitter.com/cleung2010"
+  github   = "https://www.github.com/cleung2010"
+  linkedin = "https://www.linkedin.com/calvinleunghuang"

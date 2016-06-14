@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Calvin Leung Huang</title>
+    <link>http://calvin.io/about/</link>
+    <description>Recent content in Abouts on Calvin Leung Huang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jun 2016 20:38:14 -0400</lastBuildDate>
+    <atom:link href="http://calvin.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://calvin.io/about/</link>
+      <pubDate>Mon, 13 Jun 2016 20:38:14 -0400</pubDate>
+      
+      <guid>http://calvin.io/about/</guid>
+      <description>&lt;p&gt;I’m a graduate from Rensselaer Polytechnic Institute with bachelor&amp;rsquo;s degree in Computer &amp;amp; Systems Engineering and Computer Science. I currently work for &lt;a href=&#34;https://en.wikipedia.org/wiki/Cimpress&#34;&gt;Cimpress&lt;/a&gt;, particularly on automation, deployment, infrastructure, and service discovery.&lt;/p&gt;
+
+&lt;p&gt;My interests revolve around technology, software, hardware, and problem solving. Working towards making people&amp;rsquo;s lives easier, one line at a time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
