@@ -1,3 +1,3 @@
 # Calvin Leung Huang
 
-https://calvin.io
+http://calvin.io
