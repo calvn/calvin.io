@@ -373,7 +373,7 @@ img {
 Post List
 =========================================== */
 #post-list,#archive-list {
-	margin-top: 100px;
+	margin-top: 40px;
 }
 
 #post-list li,#archive-list li {
@@ -436,8 +436,8 @@ Post List
 	margin-top: 100px;
 }
 
-#footer-no-margin {
-	padding: 40px 0 0 0;
+#footer-no-border {
+	margin-top: 40px;
 }
 
 /* Post Page */

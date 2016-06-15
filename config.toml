@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Calvin Leung Huang"
 theme = "hugo-cactus-theme"
 canonifyurls = true
+googleAnalytics = "UA-79255777-1"
 
 [params]
   name = "Calvin Leung Huang"
@@ -18,5 +19,5 @@ canonifyurls = true
 
 [social]
   twitter  = "https://www.twitter.com/cleung2010"
-  github   = "https://www.github.com/cleung2010"
-  linkedin = "https://www.linkedin.com/calvinleunghuang"
+  githubalt   = "https://www.github.com/cleung2010"
+  linkedin = "https://www.linkedin.com/in/calvinleunghuang"
