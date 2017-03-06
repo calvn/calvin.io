@@ -4,7 +4,7 @@ default: build
 
 # Essentially runs the hugo command to build the static site under public/
 build: ## Build static site with hugo
-	@hugo
+	@hugo --theme=hugo-cactus-theme
 .PHONY: build
 
 commit: ## Commit changes on public/ directory
