@@ -10,10 +10,11 @@ build: ## Build static site with hugo
 commit: ## Commit changes on public/ directory
 	@git add public/
 	@git commit -m "Update the public folder with changes"
+	@git push
 .PHONY: commit_changes
 
 # Pushes public/ to gh-pages branch as a git subtree
-publish: build commit_changes ## Push and publish changes
+publish: build commit ## Push and publish changes
 	@git subtree push --prefix=public ${GIT_ORIGIN} gh-pages
 .PHONY: publish
 
