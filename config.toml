@@ -1,4 +1,4 @@
-baseurl = "http://calvin.io/"
+baseurl = "calvin.io"
 languageCode = "en-us"
 title = "Calvin Leung Huang"
 theme = "hugo-cactus-theme"
