@@ -11,7 +11,7 @@ commit: ## Commit changes on public/ directory
 	@git add public/
 	@git commit -m "Update the public folder with changes"
 	@git push
-.PHONY: commit_changes
+.PHONY: commit
 
 # Preview changes with hugo server
 preview:
@@ -19,7 +19,7 @@ preview:
 .PHONY: preview
 
 # Pushes public/ to gh-pages branch as a git subtree
-publish: build commit ## Push and publish changes
+publish: build ## Push and publish changes
 	@git subtree push --prefix=public ${GIT_ORIGIN} gh-pages
 .PHONY: publish
 
