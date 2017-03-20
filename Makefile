@@ -13,6 +13,11 @@ commit: ## Commit changes on public/ directory
 	@git push
 .PHONY: commit_changes
 
+# Preview changes with hugo server
+preview:
+	@hugo server -t hugo-cactus-theme
+.PHONY: preview
+
 # Pushes public/ to gh-pages branch as a git subtree
 publish: build commit ## Push and publish changes
 	@git subtree push --prefix=public ${GIT_ORIGIN} gh-pages

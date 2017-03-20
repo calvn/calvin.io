@@ -5,6 +5,6 @@ title = "About"
 
 +++
 
-I’m a graduate from Rensselaer Polytechnic Institute with bachelor's degree in Computer & Systems Engineering and Computer Science. I currently work for [Cimpress](https://en.wikipedia.org/wiki/Cimpress), particularly on automation, deployment, infrastructure, and service discovery.
+I’m a graduate from Rensselaer Polytechnic Institute with bachelor's degree in Computer & Systems Engineering and Computer Science. I was part of the [Cimpress](https://en.wikipedia.org/wiki/Cimpress) engineering team, and focused on automation, deployment, infrastructure, and service discovery.
 
 Working towards making people's lives easier, one line at a time.

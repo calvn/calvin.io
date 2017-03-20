@@ -8,7 +8,7 @@ googleAnalytics = "UA-79255777-1"
 [params]
   name = "Calvin Leung Huang"
   description = ""
-  bio = "Software Engineer - Cimpress - Boston"
+  bio = "Software Engineer - Boston"
   enableRSS = false
 
   title404 = "Uh Oh!"
