@@ -19,7 +19,7 @@ preview:
 .PHONY: preview
 
 # Pushes public/ to gh-pages branch as a git subtree
-publish: build ## Push and publish changes
+publish: build commit ## Push and publish changes
 	@git subtree push --prefix=public ${GIT_ORIGIN} gh-pages
 .PHONY: publish
 
